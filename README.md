@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @giovxna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 hi, i’m @giovxna!
+- 👀 i’m interested in js, reactnative and nodejs;
+- 🌱 I’m currently learning js and php;
+- 📫 How to reach me <a href="https://www.linkedin.com/in/giovana-siqueira-santos-9a44411ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/giovxxna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <!---
 giovxna/giovxna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
