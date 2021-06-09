@@ -1,4 +1,5 @@
-<h2> hi, i’m giovana! 🌈</h2>
+
+<h1> hi, i’m giovana! 🌈</h1>
 
 - 📍 from sp - brazil 
 - 💻 web development student
