@@ -4,7 +4,7 @@
 - 📍 from sp - brazil 
 - 💻 web development student
 - ✨ currently studying js, php and java 
-- ⚡ UI / UX design enthusiast </br></br>
+- ⚡ UI / UX design enthusiast </br>
 
 <a href="https://www.linkedin.com/in/giovana--siqueira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/giovxxna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
