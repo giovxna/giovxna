@@ -9,5 +9,7 @@
 <a href="https://www.behance.net/giovxna" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 
 <div> 
+ 
  ![Snake animation](https://github.com/Felipe-ASouza/Felipe-ASouza/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
