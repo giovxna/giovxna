@@ -1,5 +1,5 @@
 <div align="center">
-     hi, i’m giovana! 🌈
+     <h1> hi, i’m giovana! 🌈 </h1>
  </div>
 
 <div align="center">
@@ -8,6 +8,7 @@
       - ✨ currently studying js, php and java </br>
       - 💙 PROA Institute 
  </div>
+ <br>
  
 <div align="center">
        <a href="https://www.linkedin.com/in/giovana--siqueira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
