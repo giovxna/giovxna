@@ -1,6 +1,5 @@
-<div align="center">
-     <h1> hi, i’m giovana! 🌈 </h1>
- </div>
+<h1> hi, i’m giovana! 🌈 </h1>
+
 
       - 📍 from sp - brazil 
       - 💻 web development student
