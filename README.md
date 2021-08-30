@@ -1,5 +1,7 @@
 <h1> hi, i’m giovana! 🌈 </h1>
 
+ <br> 
+ 
 - 📍 from sp - brazil 
 - 💻 web development student
 - ✨ currently studying js, php and java </br>
