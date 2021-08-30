@@ -2,12 +2,10 @@
      <h1> hi, i’m giovana! 🌈 </h1>
  </div>
 
-<div align="center">
       - 📍 from sp - brazil 
       - 💻 web development student
       - ✨ currently studying js, php and java </br>
       - 💙 PROA Institute 
- </div>
  <br>
  
 <div align="center">
