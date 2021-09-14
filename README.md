@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🌟 Linguagens: <strong>HTML, CSS, JavaScript e PHP.</strong>
+  🌟 Linguagens e tecnologias: <strong>HTML, CSS, JavaScript e PHP.</strong>
 </p>
 
 <p align="left">
