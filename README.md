@@ -10,9 +10,12 @@
 </p>
 
 <p align="left">
-  💻 Ferramentas: <strong>VSCode, Figma, Adobe Photoshop, Adobe Illustrator, Trello, Git e GitHub.</strong>
+  💻 Ferramentas: <strong>VSCode, Adobe Photoshop, Adobe Illustrator, Git e GitHub.</strong>
 </p>
 
+<p align="left">
+ ⤵️ Você pode me achar por aqui:
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giovana--siqueira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
