@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  ✨ Linguagens: <strong>HTML, CSS, JavaScript e PHP.</strong>
+  🌟 Linguagens: <strong>HTML, CSS, JavaScript e PHP.</strong>
 </p>
 
 <p align="left">
-  💻 Ferramentas: <strong>VSCode, Adobe Photoshop, Adobe Illustrator, Git e GitHub.</strong>
+  🌈 Ferramentas: <strong>VSCode, Adobe Photoshop, Adobe Illustrator, Git e GitHub.</strong>
 </p>
 
 <p align="left">
- ⤵️ Você pode me achar por aqui:
+ ❤️ Você pode me achar por aqui:
 </p>
 
 <p align="left">
