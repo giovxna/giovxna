@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
- ❤️ Você pode me achar por aqui:
+ ❤️ Você pode me encontrar por aqui:
 </p>
 
 <p align="left">
