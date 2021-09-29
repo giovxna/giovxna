@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-   Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end.</strong><br>
+   Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
    Atualmente cursando Programação Web Java no Instituto PROA. 💙
 </p>
 
