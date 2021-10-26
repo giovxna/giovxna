@@ -1,4 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpixelart-pixel-gifs&psig=AOvVaw0ve-zX_vk9MurNEF329ewa&ust=1635361178629000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMj0j6nh6PMCFQAAAAAdAAAAABAD" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+![waneella-pixel-art](https://user-images.githubusercontent.com/75648437/138944220-2f932e7a-1984-4db2-8590-bc5cb82b7841.gif)
+
 
 <p align="left"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
