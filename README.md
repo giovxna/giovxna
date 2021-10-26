@@ -1,5 +1,5 @@
-![998e055aba57c24138220937cc5166ab](https://user-images.githubusercontent.com/75648437/138944747-0d6fffcc-44a7-49c0-ae99-cadc5a4dee26.gif)
 
+![449e058844d89d45822a44c9f5f60fe2](https://user-images.githubusercontent.com/75648437/138945360-54f74942-c4f4-4900-9d17-2f5b58aaf7fe.gif)
 
 <p align="center"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
