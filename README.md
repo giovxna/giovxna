@@ -1,4 +1,4 @@
-![waneella-pixel-art](https://user-images.githubusercontent.com/75648437/138944220-2f932e7a-1984-4db2-8590-bc5cb82b7841.gif)
+[center]![waneella-pixel-art](https://user-images.githubusercontent.com/75648437/138944220-2f932e7a-1984-4db2-8590-bc5cb82b7841.gif)[/center]
 
 
 <p align="left"> 
