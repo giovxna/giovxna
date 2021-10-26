@@ -1,5 +1,6 @@
-<p align="center">![waneella-pixel-art](https://user-images.githubusercontent.com/75648437/138944220-2f932e7a-1984-4db2-8590-bc5cb82b7841.gif)</p>
-
+<div align="center">
+![waneella-pixel-art](https://user-images.githubusercontent.com/75648437/138944541-83ec093d-5d25-45b5-89ec-4fd50813e5dd.gif)
+ </p>
 
 
 <p align="left"> 
