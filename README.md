@@ -1,11 +1,12 @@
 ![998e055aba57c24138220937cc5166ab](https://user-images.githubusercontent.com/75648437/138944747-0d6fffcc-44a7-49c0-ae99-cadc5a4dee26.gif)
 
 
-
+```
 <p align="center"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
    Atualmente cursando Programação Web Java no Instituto PROA. 💙
 </p>
+``` 
 
 <p align="center">
   🌟 Linguagens e tecnologias: <strong>HTML, CSS, JavaScript e PHP.</strong>
