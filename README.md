@@ -3,15 +3,14 @@
 
 <p align="center"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
-   Atualmente cursando Programação Web Java no Instituto PROA. 💙
 </p>
 
 <p align="center">
-  🌟 Linguagens e tecnologias: <strong>HTML, CSS, JavaScript e PHP.</strong>
+ 🌞 Linguagens e tecnologias: <strong>HTML, CSS, JavaScript e PHP.</strong>
 </p>
 
 <p align="center">
-  🌈 Ferramentas: <strong>VSCode, Adobe Photoshop, Adobe Illustrator e Figma. </strong>
+ 🌸 Ferramentas: <strong>VSCode, Adobe Photoshop, Adobe Illustrator e Figma. </strong>
 </p>
 
 <p align="center">
