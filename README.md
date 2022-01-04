@@ -20,9 +20,6 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/?authuser=siqueira.giiovana@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FFAC30?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-
   <a href="https://www.linkedin.com/in/giovana--siqueira/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-FFAC30?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana--siqueira/" /></a>
 
