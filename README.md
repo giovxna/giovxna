@@ -20,8 +20,18 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/giovana--siqueira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/giovxxna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.behance.net/giovxna" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-</p>  
+  <a href="https://mail.google.com/mail/u/?authuser=siqueira.giiovana@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FFAC30?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/giovana--siqueira/" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-FFAC30?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana--siqueira/" /></a>
+
+  <a href="https://www.instagram.com/giovxxna/" target="_blank" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-FFAC30?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/giovxxna/"/></a>
+   
+   <a href="https://www.behance.net/giovxna" target="_blank" alt="Behance">
+   <img src="https://img.shields.io/badge/-Behance-FFAC30?style=for-the-badge&logo=behance&logoColor=white"></a>
+   
+</p>
+
 
