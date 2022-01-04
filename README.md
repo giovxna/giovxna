@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giovana--siqueira/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0061C3&link=https://www.linkedin.com/in/giovana--siqueira/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-FFAC30?style=for-the-badge&logo=Linkedin&logoColor=0061C3&link=https://www.linkedin.com/in/giovana--siqueira/" /></a>
 
   <a href="https://www.instagram.com/giovxxna/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=0061C3&link=https://www.instagram.com/giovxxna"/></a>
