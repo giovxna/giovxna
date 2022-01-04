@@ -2,6 +2,7 @@
 
 <br />
 <br />
+<br />
 
 <p align="left"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
@@ -28,7 +29,6 @@
    
    <a href="https://www.behance.net/giovxna" alt="Behance">
    <img src="https://img.shields.io/badge/-Behance-1C1C1C?style=for-the-badge&logo=behance&logoColor=FD76CB&link=https://www.behance.net/giovxna"/></a>
-   
 </p>
 
 
