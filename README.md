@@ -24,10 +24,10 @@
   <img src="https://img.shields.io/badge/-Linkedin-FFAC30?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/giovana--siqueira/" /></a>
 
   <a href="https://www.instagram.com/giovxxna/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-FFAC30?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/giovxxna/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-FFAC30?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/giovxxna/"/></a>
    
    <a href="https://www.behance.net/giovxna" alt="Behance">
-   <img src="https://img.shields.io/badge/-Behance-FFAC30?style=for-the-badge&logo=behance&logoColor=white"></a>
+   <img src="https://img.shields.io/badge/-Behance-FFAC30?style=for-the-badge&logo=behance&logoColor=FFFFFF></a>
    
 </p>
 
