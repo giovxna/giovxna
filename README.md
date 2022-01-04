@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/75648437/148135300-cbc16417-ac31-4e17-8bd5-1d0e130b8f40.png" width="200px" align="right">
+<img src="https://user-images.githubusercontent.com/75648437/148135300-cbc16417-ac31-4e17-8bd5-1d0e130b8f40.png" width="500px" align="right">
 
 <p align="center"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
