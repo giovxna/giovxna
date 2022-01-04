@@ -20,13 +20,13 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/giovana--siqueira/" target="_blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/giovana--siqueira/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-FFAC30?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana--siqueira/" /></a>
 
-  <a href="https://www.instagram.com/giovxxna/" target="_blank" alt="Instagram">
+  <a href="https://www.instagram.com/giovxxna/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-FFAC30?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/giovxxna/"/></a>
    
-   <a href="https://www.behance.net/giovxna" target="_blank" alt="Behance">
+   <a href="https://www.behance.net/giovxna" alt="Behance">
    <img src="https://img.shields.io/badge/-Behance-FFAC30?style=for-the-badge&logo=behance&logoColor=white"></a>
    
 </p>
