@@ -1,7 +1,7 @@
+![Knowledge-cuate](https://user-images.githubusercontent.com/75648437/148135088-8207afd1-4d41-41a6-a3c1-adce7d939610.png)
 <p align="center"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
 </p>
-![Knowledge](https://user-images.githubusercontent.com/75648437/148135026-6802ea9b-2640-4fe0-83f6-7c1c94aa73ec.gif)
 
 <p align="center">
  🌞 Linguagens e tecnologias: <strong>HTML, CSS, JavaScript e PHP.</strong>
