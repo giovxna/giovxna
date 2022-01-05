@@ -3,7 +3,6 @@
 
 <br />
 <br />
-<br />
 
 <h3 align="left"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
