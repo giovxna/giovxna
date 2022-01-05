@@ -5,9 +5,9 @@
 <br />
 <br />
 
-<p align="left"> 
+<h3 align="left"> 
    Oi! Meu nome é Giovana e sou <strong>Desenvolvedora front-end Júnior.</strong><br>
-</p>
+</h3>
 
 <p align="left">
  🌞 Linguagens e tecnologias: <strong>HTML, CSS, JavaScript e PHP.</strong>
