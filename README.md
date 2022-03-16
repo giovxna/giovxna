@@ -9,7 +9,7 @@
 </h3>
 
 <p align="left">
- 🌞 Linguagens e tecnologias: <strong>HTML, CSS, JavaScript e PHP.</strong>
+ 🌞 Linguagens e tecnologias: <strong>HTML, CSS, Sass, JavaScript e PHP.</strong>
 </p>
 
 <p align="left">
