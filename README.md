@@ -5,11 +5,11 @@
 <br />
 
 <p align="left">
- 🌞 Linguagens e tecnologias: <strong>HTML, CSS, Sass e JavaScript.</strong>
+ 🌞 Linguagens e tecnologias: <strong>React, Angular, Sass, JavaScript, Java.</strong>
 </p>
 
 <p align="left">
- 🌸 Ferramentas: <strong>VSCode, Adobe Photoshop, Adobe Illustrator e Figma. </strong>
+ 🌸 Ferramentas: <strong>Adobe Photoshop, Adobe Illustrator e Figma. </strong>
 </p>
 
 <p align="left">
