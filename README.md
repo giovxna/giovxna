@@ -5,7 +5,7 @@
 <br />
 
 <p align="left">
- 🌞 Linguagens e tecnologias: <strong>React, Angular, Sass, JavaScript, Java.</strong>
+ 🌞 Linguagens e tecnologias: <strong>React, Angular, Sass, JavaScript, Java, Python.</strong>
 </p>
 
 <p align="left">
