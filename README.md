@@ -3,7 +3,7 @@
 - 💼 Estagiária em Governança de Dados no Itaú Unibanco.
 
 ### Habilidades / Tecnologias: 
-![My Skills](https://skillicons.dev/icons?i=js,py,java,react,angular,aws,docker,git)
+![My Skills](https://skillicons.dev/icons?i=js,py,java,spring,react,angular,aws,docker,git)
 
 ### 💌 Caso queira entrar em contato : 
 
