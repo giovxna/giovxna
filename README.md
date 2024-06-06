@@ -1,4 +1,4 @@
-- 🖥️ Estudando atualmente <strong>Java, Python e Angular.</strong>.
+- 🖥️ Estudando atualmente <strong>Java, Python e Angular.</strong>
 - 📚 Formada em <strong>Análise e Desenvolvimento de Sistemas</strong> na São Paulo Tech School.
 - 💼 Estagiária em Governança de Dados no Itaú Unibanco.
 
