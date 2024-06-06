@@ -1,30 +1,16 @@
-<img src="https://user-images.githubusercontent.com/75648437/148135300-cbc16417-ac31-4e17-8bd5-1d0e130b8f40.png" width="350px" align="right">
+- 🖥️ Estudando atualmente <strong>Java, Python e Angular.</strong>.
+- 📚 Formada em <strong>Análise e Desenvolvimento de Sistemas</strong> na São Paulo Tech School.
+- 💼 Estagiária em Governança de Dados no Itaú Unibanco.
 
+### Habilidades / Tecnologias: 
+![My Skills](https://skillicons.dev/icons?i=js,py,java,react,angular,aws,docker,git)
 
-<br />
-<br />
+### 💌 Caso queira entrar em contato : 
 
-<p align="left">
- 🌞 Linguagens e tecnologias: <strong>React, Angular, Sass, JavaScript, Java, Python.</strong>
-</p>
+ <a href="https://www.linkedin.com/in/giovana--siqueira/" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&" alt="LinkedIn">
+ </a>
 
-<p align="left">
- 🌸 Ferramentas: <strong>Adobe Photoshop, Adobe Illustrator e Figma. </strong>
-</p>
-
-<p align="left">
- ❤️ Você pode me encontrar por aqui:
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/giovana--siqueira/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=FD76CB&link=https://www.linkedin.com/in/giovana--siqueira/"/></a>
-
-  <a href="https://www.instagram.com/giovxxna/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=FD76CB&link=https://www.instagram.com/giovxxna"/></a>
-   
-   <a href="https://www.behance.net/giovxna" alt="Behance">
-   <img src="https://img.shields.io/badge/-Behance-1C1C1C?style=for-the-badge&logo=behance&logoColor=FD76CB&link=https://www.behance.net/giovxna"/></a>
-</p>
-
-
+ <a href="mailto:siqueira.giiovana@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&" alt="Email">
+ </a>
