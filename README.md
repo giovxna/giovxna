@@ -3,7 +3,6 @@
 
 - 💻 web development student
 - ✨ currently studying py, java and angular 
-- 💼 intern in Data Governance at Itaú Unibanco.
 
 <hr>
 
