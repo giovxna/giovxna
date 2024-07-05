@@ -2,7 +2,7 @@
 ### hi, i’m giovana! 🌈
 
 - 💻 web development student
-- ✨ currently studying py, java and angular 
+- ✨ currently studying java, angular and typescript
 
 <hr>
 
