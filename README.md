@@ -6,7 +6,7 @@
 
 <hr>
 
-![My Skills](https://skillicons.dev/icons?i=py,java,spring,js,react,angular,mysqlzaws,docker,git)
+![My Skills](https://skillicons.dev/icons?i=py,java,spring,js,react,angular,mysql,aws,docker,git)
 
 
 
