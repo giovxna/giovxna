@@ -1,5 +1,6 @@
 
-![Design sem nome (2)](https://github.com/user-attachments/assets/d1ad2b72-e409-4df5-9029-deca96e0443b)
+![Design sem nome (10)](https://github.com/user-attachments/assets/ca616f16-f00f-42fb-aa19-5bdc0c106a80)
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4e7cb2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana--siqueira/)](https://www.linkedin.com/in/giovana--siqueira/)
