@@ -7,6 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-4e7cb2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siqueira.giiovana@gmail.com)](mailto:siqueira.giiovana@gmail.com)
 
 - 👩🏻‍💻 software developer
+- ⚙️ ReactJS • Java • Spring Boot • AWS
 - 🏆 AWS Certified 1x
 - 🎓 associate degree in systems analysis and development
 - ⭐ make it simple
