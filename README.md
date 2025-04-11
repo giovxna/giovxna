@@ -11,4 +11,4 @@
 - 🎓 associate degree in systems analysis and development
 - ⭐ make it simple
 ##
-![My Skills](https://skillicons.dev/icons?i=py,java,spring,js,react,angular,mysql,aws,docker,git)
+![My Skills](https://skillicons.dev/icons?i=py,java,spring,js,nodejs,react,ts,vite,mysql,aws,azure,docker,git)
