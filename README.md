@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ada0bd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siqueira.giiovana@gmail.com)](mailto:siqueira.giiovana@gmail.com)
 
 - 👩🏻‍💻 software developer
-- 🏆 AWS Certified 1x
 - 🎓 associate degree in systems analysis and development
-- ⭐ make it simple
+- 🏆 AWS Certified 1x
+- ⭐ make it simple!
 ##
 ![My Skills](https://skillicons.dev/icons?i=py,java,spring,js,nodejs,react,ts,vite,mysql,aws,azure,docker,git)
