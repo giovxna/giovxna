@@ -1,5 +1,6 @@
 
-![5](https://github.com/user-attachments/assets/96f19160-e417-4cde-984c-ec51cf0357ea)
+
+![CAPA](https://github.com/user-attachments/assets/5ba5f31e-9d49-47f5-95b6-e11160447bcf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ada0bd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana--siqueira/)](https://www.linkedin.com/in/giovana--siqueira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ada0bd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siqueira.giiovana@gmail.com)](mailto:siqueira.giiovana@gmail.com)
